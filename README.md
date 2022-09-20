@@ -44,12 +44,12 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@githubhandle](https://github.com/jellywiz)
 - Twitter: [@twitterhandle](https://twitter.com/Dark_JellyWiz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muzaffer-dler-473484205/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muzaffer-dler-473484205/) 
 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome.
 
 Feel free to check the [issues page](../../issues/).
 
